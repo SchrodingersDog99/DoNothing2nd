@@ -13,6 +13,7 @@
 @end
 
 @implementation ViewController
+@synthesize stringThatDoesNothing;
 
 - (void)viewDidLoad {
 	[super viewDidLoad];
